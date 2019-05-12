@@ -1,6 +1,6 @@
 # Leet - The Hall of Faces
 
-
+<p float="left">
 <img src='https://raw.githubusercontent.com/sekhargullapalli/leetcrawlerdata/master/ninja-portrait/adrian-sofinet-cv-small.png' width='115' height='156' alt='adrian-sofinet-cv-small.png'/>
 <img src='https://raw.githubusercontent.com/sekhargullapalli/leetcrawlerdata/master/ninja-portrait/agron-kabashi-small.png' width='115' height='156' alt='agron-kabashi-small.png'/>
 <img src='https://raw.githubusercontent.com/sekhargullapalli/leetcrawlerdata/master/ninja-portrait/ahmed-bazzara-cv-small.png' width='115' height='156' alt='ahmed-bazzara-cv-small.png'/>
@@ -142,3 +142,4 @@
 <img src='https://raw.githubusercontent.com/sekhargullapalli/leetcrawlerdata/master/ninja-portrait/usman-rajab-cv-small.png' width='115' height='156' alt='usman-rajab-cv-small.png'/>
 <img src='https://raw.githubusercontent.com/sekhargullapalli/leetcrawlerdata/master/ninja-portrait/victoria-lodge-small.png' width='115' height='156' alt='victoria-lodge-small.png'/>
 <img src='https://raw.githubusercontent.com/sekhargullapalli/leetcrawlerdata/master/ninja-portrait/viktor-nilsson-cv-small.png' width='115' height='156' alt='viktor-nilsson-cv-small.png'/>
+</p>
