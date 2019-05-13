@@ -1,6 +1,6 @@
 # Leet - The Hall of Faces
 
-<p float="left" style="background-image:url(''https://raw.githubusercontent.com/sekhargullapalli/leetcrawlerdata/master/ninja-portrait/hofbg.jpg');padding:10px;">
+<p float="left" style="background-image:url('https://raw.githubusercontent.com/sekhargullapalli/leetcrawlerdata/master/ninja-portrait/hofbg.jpg');padding:10px;">
 <img src='https://raw.githubusercontent.com/sekhargullapalli/leetcrawlerdata/master/ninja-portrait/adrian-sofinet-cv-small.png' width='100' height='140' style="margin:20px;' alt='adrian-sofinet-cv-small.png'/>
 <img src='https://raw.githubusercontent.com/sekhargullapalli/leetcrawlerdata/master/ninja-portrait/agron-kabashi-small.png' width='100' height='140' style="margin:20px;' alt='agron-kabashi-small.png'/>
 <img src='https://raw.githubusercontent.com/sekhargullapalli/leetcrawlerdata/master/ninja-portrait/ahmed-bazzara-cv-small.png' width='100' height='140' style="margin:20px;' alt='ahmed-bazzara-cv-small.png'/>
